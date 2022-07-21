@@ -53,10 +53,10 @@ class Calculator {
         break;
     }
   
-//    public void calculatePercentage(){
-//	    System.out.println("Calculating percentages....");
-//
-//    }
-//    input.close();
+    public void calculatePercentage(){
+	    System.out.println("Calculating percentages....");
+   }
+    
+   input.close();
  }
 }
