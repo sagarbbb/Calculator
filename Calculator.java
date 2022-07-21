@@ -52,11 +52,11 @@ class Calculator {
         System.out.println("Invalid operator!");
         break;
     }
-  
-//    public void calculatePercentage(){
-//	    System.out.println("Calculating percentages....");
-//
-//    }
-//    input.close();
+
+  public void calculatePercentage(){
+	    System.out.println("Calculating percentages....");
+    }
+    input.close();
+
  }
 }
