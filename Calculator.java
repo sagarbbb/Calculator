@@ -55,10 +55,11 @@ class Calculator {
   
   } 
  
-    public void calculatePercentage()
+   
+ public void calculatePercentage()
     {
     	
-	    System.out.println("Calculating percentages....");
+	    System.out.println("PERCENTAGE CALCULATION....");
 	    
     }
  
