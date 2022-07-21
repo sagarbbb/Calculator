@@ -54,8 +54,6 @@ class Calculator {
     }
   
   } 
-  
-
  
     public void calculatePercentage()
     {
